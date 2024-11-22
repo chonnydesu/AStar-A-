@@ -1,0 +1,4 @@
+A simple A* pathfinding project that finds the most optimal path towards A --> B
+  - The program randomly populates a 14x14 board with random obstacles
+  - Prompts the user to input x/y coordinates of both a start/destination location
+  - calculates and displays the shortest path possible.
